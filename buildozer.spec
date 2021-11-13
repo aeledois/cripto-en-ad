@@ -36,7 +36,7 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = certifi,kivmob,jnius,  hostpython3, python3==3.8,docutils, kivy==2.0.0 +buildozer android clean    
+requirements = certifi,kivmob,jnius,  hostpython3, python3,docutils, kivy==2.0.0 +buildozer android clean    
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
